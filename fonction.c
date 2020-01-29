@@ -3,6 +3,7 @@
  
 long long puissance_de(int v, int p)
 {
+    
     if(p==0)
     {
         return 1;

@@ -13,6 +13,7 @@ int main()
     printf("toto2 = %d\n",ftoto2(5));
     printf("toto2 = %d\n",ftoto2(5));
     printf("toto2 = %d\n",ftoto2(5));
+    printf("test = %d\n",ftoto2(5));
 
 
     int mon_int = 15;
